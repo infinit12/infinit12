@@ -7,7 +7,7 @@
 - 👀 eu esto interesado em aprendr novas linguagens
 - 🌱 eu estou recentimenti aprendendo a programar na linguagem de java script e scratch
 - 💞️ gosto muito de carros e eventos
-- 📫 
+- 
 - 😄 
 - 
 ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
