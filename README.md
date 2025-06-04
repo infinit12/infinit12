@@ -1,14 +1,9 @@
-# sobre mim **jhonatan**
+jogo futebol
+ola eu sou ✨jhonatan✨
 
-- 👋 **Olá, eu ou  @infinit12**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ **gosto de carros**
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-infinit12/infinit12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👍 O meu e-mail
+👋 ola,eu sou @infinit12
+👀 eu esto interesado em aprendr novas linguagens
+🌱 eu estou recentimenti aprendendo a programar na linguagem de java script e scratch
+💞️ gosto muito de carros e eventos
+😄
